@@ -1,4 +1,4 @@
-import subprocess
+import subprocess #call the terminal
 
 MESSAGE_COLOR = "\x1b[34m"
 RESET_ALL = "\x1b[0m"

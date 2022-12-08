@@ -1,5 +1,5 @@
-import os
-import sys
+import os #call operating system
+import sys #accessibility to environment variables
 
 project_slug = "{{ cookiecutter.project_slug }}"
 
